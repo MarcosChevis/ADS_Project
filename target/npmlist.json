@@ -1,0 +1,1 @@
+{"version":"0.0.1","name":"ads_project","dependencies":{"@nestjs/common":{"version":"8.4.3"},"@nestjs/core":{"version":"8.4.3"},"@nestjs/platform-express":{"version":"8.4.3"},"dotenv":{"version":"16.0.0"},"knex":{"version":"1.0.4"},"pg":{"version":"8.7.3"},"reflect-metadata":{"version":"0.1.13"},"rimraf":{"version":"3.0.2"},"rxjs":{"version":"7.5.5"}}}
